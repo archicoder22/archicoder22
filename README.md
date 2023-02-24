@@ -6,7 +6,8 @@ Motivated Software Engineering professional with 4 months of experience in Pytho
 
 #### Experience
 I’m currently enrolled on **Software Engineering Bootcamp**. I am due to finish in few weeks and I breeze through with an **average score of 99%**
-●	Working with OOP (classes and inheritance), functions, external data sources
+Bootcamp content:
+*	Working with OOP (classes and inheritance), functions, external data sources
 ●	String handling, list manipulation, variables and control structures
 ●	Using version control (Git)
 ●	Debugging
