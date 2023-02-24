@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Me](Adam_Sikora.jpg)
 
 ### About me
 I am an enthusiastic **Software Developer** eager to contribute to team success through hard work, attention to detail and excellent organisational skills. Motivated to learn, grow and excel in the tech industry. Seeking to apply technical skills and clear understanding of Software Development in conjunction with previous experience in the construction industry.
