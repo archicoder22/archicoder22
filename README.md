@@ -6,18 +6,19 @@ Motivated Software Engineering professional with 4 months of experience in Pytho
 
 #### Experience
 I’m currently enrolled on **Software Engineering Bootcamp**. I am due to finish in few weeks and I breeze through with an **average score of 99%**
+
 Bootcamp content:
 *	Working with OOP (classes and inheritance), functions, external data sources
-●	String handling, list manipulation, variables and control structures
-●	Using version control (Git)
-●	Debugging
-●	HTML and CSS
+*	String handling, list manipulation, variables and control structures
+*	Using version control (Git)
+*	Debugging
+*	HTML and CSS
 
 #### Qualifications
-●	Software Engineering Bootcamp, HyperionDev (currently enrolled)	Dec 2022 – Mar 2023
-●	C++ course, City University, London	
-●	Self-study on Android development using Java
-●	Self-study on HTML and web design
+*	Software Engineering Bootcamp, HyperionDev (currently enrolled)	Dec 2022 – Mar 2023
+*	C++ course, City University, London	
+*	Self-study on Android development using Java
+*	Self-study on HTML and web design
 
 
 #### Contact
